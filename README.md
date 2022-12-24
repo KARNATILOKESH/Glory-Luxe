@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://thankful-cliff-0ced9f900.2.azurestaticapps.net
-**project demo video link** - 
+**project demo video link** - https://youtu.be/vMBDc23SGAg
 
 ## Azure technologies used for Project
 
